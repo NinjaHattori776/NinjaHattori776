@@ -10,7 +10,7 @@
   <a href="https://ninjahattori776.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ninjahattori776.github.io-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:your@hashirsheikh94@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -25,7 +25,7 @@ I enjoy designing secure, scalable systems and turning complex problems into cle
 
 - 🔐 Specialising in: **Cloud Security · Threat Detection · Secure Software Design**
 - 🛠️ Currently building: **Personal portfolio site at [ninjahattori776.github.io](https://ninjahattori776.github.io)**
-- 📫 Reach me at: `your@email.com` *(replace this)*
+- 📫 Reach me at: `hashirsheikh94@gmail.com` *(replace this)*
 - 📄 CV available on request
 
 ---
