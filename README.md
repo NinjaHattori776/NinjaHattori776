@@ -25,7 +25,7 @@ I enjoy designing secure, scalable systems and turning complex problems into cle
 
 - 🔐 Specialising in: **Cloud Security · Threat Detection · Secure Software Design**
 - 🛠️ Currently building: **Personal portfolio site at [ninjahattori776.github.io](https://ninjahattori776.github.io)**
-- 📫 Reach me at: `hashirsheikh94@gmail.com` *(replace this)*
+- 📫 Reach me at: `hashirsheikh94@gmail.com` 
 - 📄 CV available on request
 
 ---
