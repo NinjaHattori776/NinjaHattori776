@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer &amp; Cybersecurity Specialist</b><br>
-  MSc Cybersecurity · Python · Java · Flask · Azure · SQL<br>
+  MSc Cybersecurity · Python · Java · UML · Web · SQL<br>
   🇬🇧 Based in the UK &nbsp;|&nbsp; Open to roles in Cybersecurity &amp; Software Engineering
 </p>
 
